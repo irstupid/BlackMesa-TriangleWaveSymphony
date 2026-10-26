@@ -13,13 +13,18 @@ the main issue with this project is that you have to walk a fine line between it
 
 ## Schematics
 I strongly perfer drawing all of my schematics by hand, but that unfortunately doesn't translate very well to a digital repository. here are some lackluster pictures
+
 <img width="3024" height="4032" alt="IMG_0220 (1)" src="https://github.com/user-attachments/assets/d730b9a4-5be8-435c-b106-2ea383f1de14" />
 <img width="3024" height="4032" alt="IMG_0219" src="https://github.com/user-attachments/assets/1ae4840d-d4a9-48aa-a8bf-845293640001" />
 <img width="3024" height="4032" alt="IMG_0218" src="https://github.com/user-attachments/assets/b56d2c75-e342-4e62-8863-eb7d22f13cec" />
+
 thats not a complete set, and I will add possibly better schematics later
 
 ## PCB
 This design does feature a PCB for the ROM chips. it is just a 4x16 diode matrix to map every 16 notes to an output, with 2 used per voice.
+
+<img width="198" height="766" alt="TWSRomBoard" src="https://github.com/user-attachments/assets/23e43163-e98a-4147-80cb-e7446ae5b762" />
+
 
 ## Finished Desighn
 I will update this section once I have soldered the whole things
